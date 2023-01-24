@@ -1,0 +1,134 @@
+{
+  "project_info": {
+    "project_number": "581305694296",
+    "project_id": "openstreetmap-fa2e7",
+    "storage_bucket": "openstreetmap-fa2e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581305694296:android:823d9d22f3591e0bcaf22d",
+        "android_client_info": {
+          "package_name": "com.example.openstreetmap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581305694296-jt653g3ad3nh9rvqmsleshae9k8krbbu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIkdL8n0CW41c17Tr1ZGYZWp5LCk3lyDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581305694296-jt653g3ad3nh9rvqmsleshae9k8krbbu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "581305694296-6hf4vm2kbin7ogcnuvc5bdhqrlnebqql.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.openstreetmap"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581305694296:android:e41883482188349bcaf22d",
+        "android_client_info": {
+          "package_name": "com.mycompany.openstreetmap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581305694296-aungued1lim9c2cr9nshcakkm49a1t6d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.openstreetmap",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "581305694296-jt653g3ad3nh9rvqmsleshae9k8krbbu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIkdL8n0CW41c17Tr1ZGYZWp5LCk3lyDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581305694296-jt653g3ad3nh9rvqmsleshae9k8krbbu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "581305694296-6hf4vm2kbin7ogcnuvc5bdhqrlnebqql.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.openstreetmap"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581305694296:android:3e77dffd6654b773caf22d",
+        "android_client_info": {
+          "package_name": "com.mycompany.osmap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581305694296-r19vkjp8fnqeblghhvsl79ms29hgkari.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.osmap",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "581305694296-jt653g3ad3nh9rvqmsleshae9k8krbbu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIkdL8n0CW41c17Tr1ZGYZWp5LCk3lyDw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581305694296-jt653g3ad3nh9rvqmsleshae9k8krbbu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "581305694296-6hf4vm2kbin7ogcnuvc5bdhqrlnebqql.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.openstreetmap"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
